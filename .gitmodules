@@ -1,0 +1,6 @@
+[submodule "s3StaticWebsite"]
+	path = s3StaticWebsite
+	url = https://github.com/MgELevateLabsInternship/s3StaticWebsite.git
+[submodule "FinOps-AWS"]
+	path = FinOps-AWS
+	url = https://github.com/MgELevateLabsInternship/FinOps-AWS.git
