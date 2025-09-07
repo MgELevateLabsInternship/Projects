@@ -4,3 +4,6 @@
 [submodule "FinOps-AWS"]
 	path = FinOps-AWS
 	url = https://github.com/MgELevateLabsInternship/FinOps-AWS.git
+[submodule "GitOps-ArgoCD-K3s"]
+	path = GitOps-ArgoCD-K3s
+	url = https://github.com/MgELevateLabsInternship/GitOps-ArgoCD-K3s.git
